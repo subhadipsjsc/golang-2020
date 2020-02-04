@@ -1,0 +1,1 @@
+https://medium.com/golangspec/type-assertions-in-go-e609759c42e1

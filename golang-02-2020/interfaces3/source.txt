@@ -1,0 +1,1 @@
+https://medium.com/golangspec/interfaces-in-go-part-ii-d5057ffdb0a6
