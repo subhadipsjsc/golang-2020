@@ -1,0 +1,1 @@
+source : https://www.alexedwards.net/blog/interfaces-explained
